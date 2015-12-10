@@ -17,7 +17,9 @@ This is a paragraph title
 
 
 
+----
 
+^ that thing is a horizontal bar in markdown
 
 
 
